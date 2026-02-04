@@ -9,9 +9,9 @@ ELLEVENMIND | REGISTRY
 
 2. PROOF OF USE
 Official presence and priority claim established on:
-* GitHub: github.com/ellevenmind
-* Hugging Face: huggingface.co/ellevenmind
-* X: x.com/ellevenmind
+* GitHub: [github.com/ellevenmind](https://github.com/ellevenmind)
+* Hugging Face: [huggingface.co/ellevenmind](https://huggingface.com/ellevenmind)
+* X: [x.com/ellevenmind](https://x.com/ellevenmind.com)
 
 3. LEGAL DECLARATION
 This document provides timestamped evidence of prior use. 
